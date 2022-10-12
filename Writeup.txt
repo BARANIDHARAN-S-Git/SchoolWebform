@@ -1,0 +1,13 @@
+GithubLink:https://github.com/BARANIDHARAN-S-Git/SchoolWebform
+-----------------------------------------------------------------------------------
+1)Created WebFormMaster Page.
+
+2) WebformMaste page is to Design the Layout to be appear same in all webpages.
+
+3)Webform Master page  has Some designs and Three Button to show the Details of the Student,Subjects and Class Of the School Database.
+
+4)When The user clicks on the Button It Redirects to The Webform with Maaster Page ,Where It has the respective Details of the Student,Subjects and Class.
+
+5)When the User Clicks the Student Button It redirects to the page where it has the Student details Stored in the Database. 
+
+6)And It has Back Button To come to the previous Page and Choose Another Button,Similarly for the Subjects and class.
